@@ -12,7 +12,7 @@ Article:  https://www.sciencedirect.com/science/article/abs/pii/S095741742030859
 
 People who participated in the preparation of this resource:  
 Mahdi Farahani:  
-Linkdin:  https://www.linkedin.com/in/mahdi-farahani-3475ab31b/  
+Linkdin:  https://www.linkedin.com/in/mahdifarahani/    
 Mohammadreza Borjian:  
 Linkdin:  https://www.linkedin.com/in/mohammadreza-borjian/  
 
