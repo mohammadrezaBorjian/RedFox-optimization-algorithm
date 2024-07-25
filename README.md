@@ -10,6 +10,8 @@ The algorithm iteratively updates fox positions until a termination condition is
 
 Article:  https://www.sciencedirect.com/science/article/abs/pii/S0957417420308599  
 
+For a more detailed explanation in Persian, please refer to: https://vrgl.ir/vH17Y  
+
 People who participated in the preparation of this resource:  
 Mahdi Farahani:  
 Linkdin:  https://www.linkedin.com/in/mahdifarahani/    
